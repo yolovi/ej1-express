@@ -2,7 +2,7 @@
   "name": "ej1-express",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "e1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node e1.js",

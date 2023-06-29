@@ -17,7 +17,7 @@ const puerto = 3000
 
 
 //4. LISTEN PUERTO ----------------------------
-app.listen(3000, () => {
+app.listen(puerto, () => {
     console.log(`Servidor levantado en el puerto ${puerto}`)
 })
 
